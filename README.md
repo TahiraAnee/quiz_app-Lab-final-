@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## ScreenShots
+### Welcome Screen
+![Welcome Screen](screenshot/home_page.png)
+
+### Category
+![Categories](screenshot/Category_1.png)
+![Categories](screenshot/Category_2.png)
+
 
 ## Getting Started
 
