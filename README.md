@@ -3,11 +3,12 @@
 A new Flutter project.
 
 ## ScreenShots
-### Welcome Screen
-![Welcome Screen](screenshot/home_page.png)
 
-### Category
+![Welcome Screen](screenshot/home_page.png)
 ![Categories](screenshot/Category_1.png)![Categories](screenshot/Category_2.png)
+![Categories](screenshot/configuration_1.png)![Categories](screenshot/configuration_2.png)![Categories](screenshot/configuration_3.png)![Categories](screenshot/configuration_4.png)
+![Categories](screenshot/question_1.png)![Categories](screenshot/Question11.png)![Categories](screenshot/question_2.png)![Categories](screenshot/qestion_3.png)
+![Categories](screenshot/timeout.png)![Categories](screenshot/result.png)
 
 
 
