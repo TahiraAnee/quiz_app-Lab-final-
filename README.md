@@ -7,8 +7,8 @@ A new Flutter project.
 ![Welcome Screen](screenshot/home_page.png)
 
 ### Category
-![Categories](screenshot/Category_1.png)
-![Categories](screenshot/Category_2.png)
+![Categories](screenshot/Category_1.png)(screenshot/Category_2.png)
+
 
 
 ## Getting Started
