@@ -14,7 +14,7 @@ A new Flutter project.
 ![Categories](screenshot/question_1.png)
 ![Categories](screenshot/Question11.png)
 ![Categories](screenshot/question_2.png)
-![Categories](screenshot/qestion_3.png)
+![Categories](screenshot/question_3.png)
 ![Categories](screenshot/timeout.png)
 ![Categories](screenshot/result.png)
 
